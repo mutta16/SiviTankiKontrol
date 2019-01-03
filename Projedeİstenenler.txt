@@ -1,4 +1,4 @@
--	Isı Kontrolü
+﻿-	Isı Kontrolü
 -	Seviye Kontrolü
 -	Kirlilik Kontrolü
 -	İletkenlik
@@ -6,7 +6,7 @@
 
 -----------------------------------------
 
-Bu bilgiler sorularacak
+Bu bilgiler sorularacak.
 
 -	Sıcaklık, PH, İletkenlik
 -	Konsantrasyon
